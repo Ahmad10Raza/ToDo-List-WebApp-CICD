@@ -38,7 +38,7 @@ Follow the steps below to set up and run the project:
 
 ## Output
 
-![output]()
+![output](output.png)
 
 ## CI/CD Pipeline
 
