@@ -1,4 +1,3 @@
-
 # Todo List Web App CI/CD
 
 This repository contains the source code for a Todo List Web App with Continuous Integration and Continuous Deployment (CI/CD) set up using Jenkins and Docker. The application is built with Node.js.
@@ -19,7 +18,6 @@ Follow the steps below to set up and run the project:
    ```bash
    git clone https://github.com/Ahmad10Raza/ToDo-List-WebApp-CICD.git
    ```
-
 2. Change into the project directory:
 
    ```bash
@@ -37,6 +35,10 @@ Follow the steps below to set up and run the project:
    ```
 
    The Todo List Web App should now be accessible at `http://localhost:3000` in your web browser.
+
+## Output
+
+![output]()
 
 ## CI/CD Pipeline
 
